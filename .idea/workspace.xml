@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+insertSort">
-      <change afterPath="$PROJECT_DIR$/src/p_002_sort/BinarySearch.java" afterDir="false" />
+    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+binarySearch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_002_sort/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_002_sort/sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p_002_sort/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_002_sort/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678508274325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+binarySearch">
+      <created>1678509490338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678509490338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +103,7 @@
     <MESSAGE value="+bubbleSort" />
     <MESSAGE value="+directSort" />
     <MESSAGE value="+insertSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="+insertSort" />
+    <MESSAGE value="+binarySearch" />
+    <option name="LAST_COMMIT_MESSAGE" value="+binarySearch" />
   </component>
 </project>
