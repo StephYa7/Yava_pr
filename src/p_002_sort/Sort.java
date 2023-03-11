@@ -2,7 +2,7 @@ package p_002_sort;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class sort {
+public class Sort {
 
     public static void main(String[] args) {
         int[] array = new int[]{1, 5, 6, 7, 8, 4, 2, 1, 6, 55, 2, 31
