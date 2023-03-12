@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+quickSort">
-      <change afterPath="$PROJECT_DIR$/src/p_002_sort/HeapSort.java" afterDir="false" />
+    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+HeapSort">
+      <change afterPath="$PROJECT_DIR$/src/p_003_/Node_full.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_002_sort/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_002_sort/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678536671523</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="+HeapSort">
+      <created>1678547624534</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678547624534</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +127,7 @@
     <MESSAGE value="+binarySearch" />
     <MESSAGE value="+binarySearchCounter" />
     <MESSAGE value="+quickSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="+quickSort" />
+    <MESSAGE value="+HeapSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="+HeapSort" />
   </component>
 </project>
