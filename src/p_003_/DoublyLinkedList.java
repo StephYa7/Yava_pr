@@ -66,9 +66,9 @@ public class DoublyLinkedList {
         next.previous = previous;
     }
 
-    public void reverseNode
 
-    {
+
+    public void reverse(){
         Node currentNode = head;
         while (currentNode != null) {
             Node next = currentNode.next;
@@ -83,7 +83,25 @@ public class DoublyLinkedList {
             }
             currentNode = next;
 
+
         }
+    }
+    public void push(int value) {
+        Node node = new Node();
+        node.value = value;
+        node.next = head;
+        head.previous = node;
+        head = node;
+
+    }
+    public Integer peek() {
+        Integer result = null;
+        if (tail == null) {
+            result = tail.value;
+            tail.previous.next = null;
+            tail = tail.previous;
+        }
+        return result;
     }
 
 }

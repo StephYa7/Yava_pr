@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+HeapSort">
-      <change afterPath="$PROJECT_DIR$/src/p_003_/Node_full.java" afterDir="false" />
+    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+DoublyLinkedList">
+      <change afterPath="$PROJECT_DIR$/src/p_003_/SinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p_003_/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_003_/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p_003_/SinglyLinkedLlist.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678547624534</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="+DoublyLinkedList">
+      <created>1678644129256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678644129256</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +137,7 @@
     <MESSAGE value="+binarySearchCounter" />
     <MESSAGE value="+quickSort" />
     <MESSAGE value="+HeapSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="+HeapSort" />
+    <MESSAGE value="+DoublyLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="+DoublyLinkedList" />
   </component>
 </project>
