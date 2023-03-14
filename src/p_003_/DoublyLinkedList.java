@@ -1,17 +1,19 @@
 package p_003_;
 
-public class DoublyLinkedList {
+public class DoublyLinkedList<T> {
     Node head;
     Node tail;
 
     public class Node {
-        int value;
+
+        T value;
+
         Node next;
 
         Node previous;
     }
 
-    public Node findNode(int value) {
+    public Node findNode(T value) {
         Node currentNode = head;
         while (currentNode != null) {
             if (currentNode.value == value) {
@@ -22,7 +24,7 @@ public class DoublyLinkedList {
         return null;
     }
 
-    public void addNode(int value) {
+    public void addNode(T value) {
         Node node = new Node();
         node.value = value;
         if (head == null) {
@@ -35,7 +37,7 @@ public class DoublyLinkedList {
         }
     }
 
-    public void addNode(int value, Node node) {
+    public void addNode(T value, Node node) {
         Node next = node.next;
         Node newNode = new Node();
         newNode.value = value;
@@ -86,7 +88,7 @@ public class DoublyLinkedList {
 
         }
     }
-    public void push(int value) {
+    public void push(T value) {
         Node node = new Node();
         node.value = value;
         node.next = head;
@@ -94,14 +96,6 @@ public class DoublyLinkedList {
         head = node;
 
     }
-    public Integer peek() {
-        Integer result = null;
-        if (tail == null) {
-            result = tail.value;
-            tail.previous.next = null;
-            tail = tail.previous;
-        }
-        return result;
-    }
+
 
 }

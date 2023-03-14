@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+DoublyLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/p_003_/SinglyLinkedList.java" afterDir="false" />
+    <list default="true" id="7d95e5a2-26d6-4640-987c-9c8be88155ea" name="Changes" comment="+SinglyLinkedList +- DoublyLinkedList">
+      <change afterPath="$PROJECT_DIR$/src/p_003_/EmployeeNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p_003_/LinkedListPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p_003_/LinkedListPrac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p_003_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p_003_/SortType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p_003_/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_003_/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_003_/SinglyLinkedLlist.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678644129256</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+SinglyLinkedList +- DoublyLinkedList">
+      <created>1678647303591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678647303591</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +148,7 @@
     <MESSAGE value="+quickSort" />
     <MESSAGE value="+HeapSort" />
     <MESSAGE value="+DoublyLinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="+DoublyLinkedList" />
+    <MESSAGE value="+SinglyLinkedList +- DoublyLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="+SinglyLinkedList +- DoublyLinkedList" />
   </component>
 </project>
